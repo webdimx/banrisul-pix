@@ -1,0 +1,11 @@
+{
+  "name":"hit/pix",
+  "autoload":{
+    "psr-4":{
+      "Hit\\":"hit/"
+    }
+  },
+  "require": {
+    "mpdf/qrcode": "^1.0"
+  }
+}
